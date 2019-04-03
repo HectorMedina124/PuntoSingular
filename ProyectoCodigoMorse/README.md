@@ -1,7 +1,7 @@
 # Hector Aurelio Medina Cornejo
-hector.medina.est@gmail.com
-------INSTRUCCIONES------
-Descargar el archivo Principal.java
+hector.medina.est@gmail.com\n
+------INSTRUCCIONES------\n
+Descargar el archivo Principal.java\n
 Abrir el cmd(simbolo de sistema) como administrador
 ir a la ruta donde esta guardado el archivo
 Ejecutar el comando javac Principal.java

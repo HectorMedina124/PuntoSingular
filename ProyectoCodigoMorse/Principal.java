@@ -31,7 +31,6 @@ public class Principal {
 				if(cadena.charAt(i)==32){
 					count++;
 					if(count==1) {
-						System.out.println(caracter);
 						cadenaFinal+=morse(caracter,morse);
 						caracter="";
 					}
